@@ -3,6 +3,7 @@
     left: 13em;
     bottom: 7em;
 }
+/* Could probably do with px with absolute in case you need to be exact with the positioning */
 .bandana{
     position: absolute;
     top: 10em;
