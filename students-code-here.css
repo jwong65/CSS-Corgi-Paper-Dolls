@@ -1,0 +1,21 @@
+.funny-glasses{
+    position: relative;
+    left: 13em;
+    bottom: 7em;
+}
+.bandana{
+    position: absolute;
+    top: 10em;
+    left: 7em;
+}
+/*this has to be fixed positioning*/
+.pawprint{
+    position: fixed;
+    top: 45px;
+    left:65px;
+}
+/*This allows .luna to be sticky to the horizontal scroll */
+.luna{
+    position:sticky;
+    left: 0;
+}
