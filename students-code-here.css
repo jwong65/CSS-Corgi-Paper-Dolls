@@ -19,3 +19,7 @@
     position:sticky;
     left: 0;
 }
+/* z-index places the hat in front*/
+.top-hat{
+    z-index: 1;
+}
